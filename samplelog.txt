@@ -1,0 +1,13 @@
+FakeAirport: init
+FakeAirport: starting. attaching netif
+FakeAirport: getting mac address
+FakeAirport: 80211 request 3223349705, type 12
+FakeAirport: stage 1 success - FakeAirport: attached.
+net_mercurysquad_driver_FakeAirport: Ethernet address 01:02:03:04:05:06
+FakeAirport: 80211 request 3223349705, type 23
+FakeAirport: Setting multicast mode
+FakeAirport: setting multicast list
+FakeAirport: 80211 request 3223349705, type 44
+FakeAirport: 80211 request 3223349705, type 43
+FakeAirport: 80211 request 3223349705, type 28
+FakeAirport: 80211 request 3223349705, type 51
